@@ -18,7 +18,7 @@ GitViz translates terminal actions into direct visual graph updates:
 
 ---
 
-## ✨ Features & Architecture
+## ✨ Features & Architecture.
 
 ### 🖥️ Simulated Bash Terminal
 - Auto-focused input shell mimicking `user@gitviz:~/repo $`.
